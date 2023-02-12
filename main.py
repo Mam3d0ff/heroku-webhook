@@ -3,7 +3,7 @@ import telebot
 import os
 from flask import Flask, request
 
-openai.api_key = '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'
+openai.api_key = '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'
 TOKEN = '6077876190:AAGTOY8cLkcfIdZqMwCD04B2HtV0h829ucs'
 APP_URL = f'https://talkwithgpt.herokuapp.com/{TOKEN}'
 bot = telebot.TeleBot("TOKEN")
